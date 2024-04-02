@@ -1,0 +1,6 @@
+		u and v are used interchangeably 	check against dictionary?
+		f and s are used interchangeably 	check against dictionary?
+		accents are inconsistent 		should be ignored
+		some letters have horizontal “cap”	tends to mean n follows, or ue after capped q
+		some line end hyphens not present	leave words split for now, can decide later
+		ç old spelling is always modern z	teach AI to always interpret ç as z
